@@ -1,0 +1,1 @@
+followed the module at https://docs.microsoft.com/en-us/learn/modules/connect-an-app-to-azure-storage/
